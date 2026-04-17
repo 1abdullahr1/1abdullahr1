@@ -4,7 +4,7 @@
 
 I'm a Computer Science student at Virtual University of Pakistan — not just learning to code, but trying to understand **why** things work the way they do.
 
----
+<hr style="border: none; border-top: 0.5px solid #30363d; margin: 24px 0;">
 
 ## Who I Am
 
@@ -12,7 +12,7 @@ I grew up in Pakistan with a love for two things that seem opposite but aren't: 
 
 CS, for me, isn't about tools or job titles. It's about the rare satisfaction of holding a complex system in your mind and finally **seeing** it clearly.
 
----
+<hr style="border: none; border-top: 0.5px solid #30363d; margin: 24px 0;">
 
 ## What I'm Studying
 
@@ -23,7 +23,7 @@ CS, for me, isn't about tools or job titles. It's about the rare satisfaction of
 **Languages:** C++ (primary) · Python (learning)  
 **Tools:** Git · VS Code
 
----
+<hr style="border: none; border-top: 0.5px solid #30363d; margin: 24px 0;">
 
 ## What Drives Me
 
@@ -31,7 +31,7 @@ I'm not chasing certificates. I'm chasing *depth* — that moment when a concept
 
 I'm also working toward a fully funded master's degree abroad, because I believe the right education can change not just a career, but a life.
 
----
+<hr style="border: none; border-top: 0.5px solid #30363d; margin: 24px 0;">
 
 ## Let's Connect
 
