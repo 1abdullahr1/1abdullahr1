@@ -1,64 +1,46 @@
 # Hi, I'm Abdullah 👋
 
 🎓 Bachelor of Science in Computer Science (BSCS) Student  
+🏫 Virtual University of Pakistan  
 📍 Pakistan  
 
 ---
 
 ## 🎓 Academic Profile
 
-I am an undergraduate Computer Science student with a focused interest in understanding the theoretical and foundational aspects of computing. My learning approach emphasizes clarity of concepts, logical reasoning, and gradual progression from fundamental principles to applied systems.
+I am an undergraduate student of Computer Science at the Virtual University of Pakistan, with a focused interest in the theoretical and structural foundations of computing. My approach to learning is centered on conceptual clarity, analytical thinking, and a systematic progression from fundamental principles to more complex computational models.
 
-Rather than limiting myself to surface-level tool usage, I aim to study how computational systems are structured and how different layers—from logic gates to algorithms—interact to form complete systems.
-
----
-
-## 📖 Academic Journey
-
-### 📅 Semester 1
-- Studied fundamental programming concepts using C++
-- Developed understanding of number systems and binary representation
-- Introduced to basic digital logic concepts
-
-### 📅 Semester 2
-- Covered core data structures such as arrays and stacks
-- Learned version control concepts using Git and GitHub
-- Improved problem-solving through structured programming
-
-### 📅 Semester 3 (Current)
-- Studying Data Structures and Algorithms in greater depth
-- Exploring Digital Logic Design at a conceptual and implementation level
-- Beginning to analyze computational problems with a more formal approach
+I aim to develop a coherent understanding of how different layers of computation—ranging from digital logic to algorithmic processes—integrate to form reliable and efficient systems.
 
 ---
 
-## 🧠 Areas of Study
+## 🧠 Areas of Interest
 
 - Data Structures and Algorithms  
 - Digital Logic Design  
-- Computer Organization (introductory level)  
-- Problem Solving and Computational Thinking  
+- Computer Organization and Architecture  
+- Computational Problem Solving  
 
 ---
 
 ## 🛠️ Technical Exposure
 
-- **Languages:** C++ (primary), Python (basic exposure)  
-- **Tools:** Git, GitHub, Visual Studio Code  
+- **Programming Languages:** C++ (primary), Python (basic exposure)  
+- **Tools and Environments:** Git, GitHub, Visual Studio Code  
 
 ---
 
 ## 📌 Current Focus
 
-- Strengthening understanding of core Computer Science subjects  
-- Practicing structured problem-solving techniques  
-- Building small-scale projects to reinforce theoretical concepts  
+- Strengthening foundational understanding of core Computer Science concepts  
+- Applying theoretical knowledge through small-scale implementations  
+- Developing disciplined problem-solving methodologies  
 
 ---
 
 ## 🧭 Academic Approach
 
-I believe that a strong foundation in Computer Science is built through a clear understanding of first principles. My focus is on developing depth in core subjects, maintaining consistency in learning, and gradually connecting theory with practical implementation.
+My academic focus is directed toward building depth in core areas of Computer Science through consistent study and critical analysis. I prioritize understanding underlying principles over superficial familiarity with tools, with the objective of forming a strong and transferable intellectual foundation.
 
 ---
 
