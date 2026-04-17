@@ -32,6 +32,20 @@ I'm not chasing certificates. I'm chasing *depth* — that moment when a concept
 I'm also working toward a fully funded master's degree abroad, because I believe the right education can change not just a career, but a life.
 
 <hr style="border: none; border-top: 0.5px solid #30363d; margin: 24px 0;">
+<hr style="border: none; border-top: 0.5px solid #30363d; margin: 24px 0;">
+
+## Technologies I've Explored
+
+These aren't things I've mastered — they're doors I've opened and found interesting enough to keep pushing.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Let's Connect
 
