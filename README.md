@@ -1,64 +1,41 @@
 # Hi, I'm Abdullah 👋
 
-🎓 Bachelor of Science in Computer Science (BSCS) Student  
-🏫 Virtual University of Pakistan  
-📍 Pakistan  
+> *"The roots grow deep before the branches reach the sky."*
+
+I'm a Computer Science student at Virtual University of Pakistan — not just learning to code, but trying to understand **why** things work the way they do.
 
 ---
 
-## 🎓 Academic Profile
+## Who I Am
 
-I am an undergraduate student of Computer Science at the Virtual University of Pakistan, with a focused interest in the theoretical and structural foundations of computing. My approach to learning is centered on conceptual clarity, analytical thinking, and a systematic progression from fundamental principles to more complex computational models.
+I grew up in Pakistan with a love for two things that seem opposite but aren't: classical Urdu poetry and the logic of machines. Iqbal wrote about the self seeking its limits. I think about that every time I sit down with a hard algorithm.
 
-I aim to develop a coherent understanding of how different layers of computation—ranging from digital logic to algorithmic processes—integrate to form reliable and efficient systems.
-
----
-
-## 🧠 Areas of Interest
-
-- Data Structures and Algorithms  
-- Digital Logic Design  
-- Computer Organization and Architecture  
-- Computational Problem Solving  
+CS, for me, isn't about tools or job titles. It's about the rare satisfaction of holding a complex system in your mind and finally **seeing** it clearly.
 
 ---
 
-## 🛠️ Technical Exposure
+## What I'm Studying
 
-- **Programming Languages:** C++ (primary), Python (basic exposure)  
-- **Tools and Environments:** Git, GitHub, Visual Studio Code  
+- Data Structures & Algorithms — the grammar of problem-solving
+- Computer Organization & Architecture — how thought becomes electricity
+- Digital Logic Design — where math touches the physical world
 
----
-
-## 📌 Current Focus
-
-- Strengthening foundational understanding of core Computer Science concepts  
-- Applying theoretical knowledge through small-scale implementations  
-- Developing disciplined problem-solving methodologies  
+**Languages:** C++ (primary) · Python (learning)  
+**Tools:** Git · VS Code
 
 ---
 
-## 🧭 Academic Approach
+## What Drives Me
 
-My academic focus is directed toward building depth in core areas of Computer Science through consistent study and critical analysis. I prioritize understanding underlying principles over superficial familiarity with tools, with the objective of forming a strong and transferable intellectual foundation.
+I'm not chasing certificates. I'm chasing *depth* — that moment when a concept clicks and you realize it connects to ten other things you already knew.
+
+I'm also working toward a fully funded master's degree abroad, because I believe the right education can change not just a career, but a life.
 
 ---
 
-## 🌐 Contact
+## Let's Connect
 
-- GitHub: https://github.com/1abdullahr1
-- Website: https://abdullah-rajput.vercel.app
-<!--
-**1abdullahr1/1abdullahr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you're a fellow student, a researcher, or just someone who thinks deeply about computing (or poetry, or both) — I'd genuinely love to hear from you.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 devabdullah404@gmail.com  
+🌐 https://abdullah-rajput.vercel.app/
